@@ -1,0 +1,12 @@
+{
+    "name" : "5eCharacterConverter",
+    "title" : "5e Mobile App Character Converter",
+    "description" : "Convert characters made in 5e Companion mobile app to Foundry VTT actors",
+    "version" : "1.0.0",
+    "author" : "GenesisProphecy",
+    "minimumCoreVersion" : "0.5.0",
+    "system" : "dnd5e",
+    "scripts" : [
+        "scripts/converter.js"
+    ]
+}
