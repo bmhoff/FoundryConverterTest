@@ -6,8 +6,9 @@
     "author" : "GenesisProphecy",
     "minimumCoreVersion" : "0.5.0",
     "system" : "dnd5e",
-    "download" : "https://github.com/bmhoff/FoundryConverterTest/raw/master/5eCharacterConverter.zip",
+    "manifest" : "https://raw.githubusercontent.com/bmhoff/FoundryConverterTest/master/module.json",
+    "download" : "https://github.com/bmhoff/FoundryConverterTest/archive/v1.0.zip",
     "scripts" : [
-        "scripts/converter.js"
+        "./scripts/converter.js"
     ]
 }
